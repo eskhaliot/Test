@@ -6,6 +6,5 @@ public class Hello {
         z = Math.sqrt(x*x + y*y);
         System.out.println(z);
         //Comment
-        //One more
     }
 }
